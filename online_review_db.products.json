@@ -1,0 +1,60 @@
+[{
+  "_id": 101,
+  "name": "Laptop",
+  "category": "Electronics",
+  "price": 999
+},
+{
+  "_id": 102,
+  "name": "Smartphone",
+  "category": "Electronics",
+  "price": 699
+},
+{
+  "_id": 103,
+  "name": "Headphones",
+  "category": "Electronics",
+  "price": 199
+},
+{
+  "_id": 104,
+  "name": "Tablet",
+  "category": "Electronics",
+  "price": 499
+},
+{
+  "_id": 105,
+  "name": "Smartwatch",
+  "category": "Electronics",
+  "price": 299
+},
+{
+  "_id": 106,
+  "name": "Gaming Console",
+  "category": "Gaming",
+  "price": 399
+},
+{
+  "_id": 107,
+  "name": "Mechanical Keyboard",
+  "category": "Accessories",
+  "price": 129
+},
+{
+  "_id": 108,
+  "name": "Wireless Mouse",
+  "category": "Accessories",
+  "price": 79
+},
+{
+  "_id": 109,
+  "name": "Bluetooth Speaker",
+  "category": "Audio",
+  "price": 149
+},
+{
+  "_id": 110,
+  "name": "External Hard Drive",
+  "category": "Storage",
+  "price": 89
+}]

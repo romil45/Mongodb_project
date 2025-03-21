@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381ee7"
+  },
+  "user_id": 1,
+  "product_id": 101,
+  "rating": 5,
+  "review": "Amazing laptop, super fast!",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381ee8"
+  },
+  "user_id": 2,
+  "product_id": 102,
+  "rating": 4,
+  "review": "bad it was not wroth it buy",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381ee9"
+  },
+  "user_id": 3,
+  "product_id": 103,
+  "rating": 5,
+  "review": "Great sound quality!",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381eea"
+  },
+  "user_id": 4,
+  "product_id": 104,
+  "rating": 4,
+  "review": "Nice tablet, smooth performance.",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381eeb"
+  },
+  "user_id": 5,
+  "product_id": 105,
+  "rating": 3,
+  "review": "Smartwatch looks good but lacks features.",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381eec"
+  },
+  "user_id": 6,
+  "product_id": 106,
+  "rating": 5,
+  "review": "Best gaming console ever!",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381eed"
+  },
+  "user_id": 7,
+  "product_id": 107,
+  "rating": 4,
+  "review": "Keyboard is great for typing.",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381eee"
+  },
+  "user_id": 8,
+  "product_id": 108,
+  "rating": 5,
+  "review": "Mouse is smooth and responsive.",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381eef"
+  },
+  "user_id": 9,
+  "product_id": 109,
+  "rating": 4,
+  "review": "Good bass and sound clarity.",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbf89760a8a703a9381ef0"
+  },
+  "user_id": 10,
+  "product_id": 110,
+  "rating": 5,
+  "review": "Fast data transfer, very useful.",
+  "date": {
+    "$date": "2025-03-20T11:14:31.747Z"
+  }
+}]
