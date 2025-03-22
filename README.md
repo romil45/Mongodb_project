@@ -33,7 +33,8 @@ To show user details
     joined: new Date()
 })
 
-==> db.users.insertMany([
+==> db.users.insertMany
+([
     {_id: 12, name: "Krishsa", email: "krisha@example.com", joined: new Date() },
 
     
