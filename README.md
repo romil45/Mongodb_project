@@ -35,6 +35,8 @@ To show user details
 
 ==> db.users.insertMany([
     {_id: 12, name: "Krishsa", email: "krisha@example.com", joined: new Date() },
+
+    
     { user_id: 13, name: "hemasnsi", email: "hemashi@example.com",  joined: new Date() }
 ])
 
