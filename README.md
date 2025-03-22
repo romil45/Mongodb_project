@@ -1,6 +1,7 @@
 Here it is CRUD and some basic query which i have attached in here
 
 To Show user data
+
 db.users.find().pretty()
 
 To Show product data
